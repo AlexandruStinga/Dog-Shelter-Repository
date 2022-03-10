@@ -1,0 +1,5 @@
+6,Otterhound,Peanut,2,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12230108/Otterhound-On-White-03.jpg
+5,asd,dasdad,10,sda
+10,Lapponian Herder,Chase,3,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231210/Lapponian-Herder-On-White-01.jpg
+9,Samoyed,Max,7,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/20122208/Samoyed-standing-in-the-forest.jpg
+8,Saluki,Kobe,1,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/14185322/AKC-121716-139.jpg

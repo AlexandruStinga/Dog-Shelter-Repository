@@ -1,0 +1,6 @@
+1,Affenpinscher,Affen,1,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/30174107/Affenpinscher-copy.jpg
+3,Staffordshire Terrier,Lucky,2,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/07172037/AmStaff.06.jpg
+4,Rottweiler,Scout,1,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224942/Rottweiler-On-White-10.jpg
+2,Husky,Lara,3,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/26155623/Siberian-Husky-standing-outdoors-in-the-winter.jpg
+7,Estrela Mountain Dog,Roscoe,5,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/13173254/Beau.jpg
+11,a,asd,5,bbb.ccc
